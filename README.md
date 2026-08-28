@@ -16,11 +16,11 @@ I work across cyber security, embedded systems and full-stack development. I bui
 ## Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic deleted 80% of Claude Code&#39;s system prompt. Here is what replaced it](https://aravindarumugam.com/ai/anthropic-deleted-80-of-claude-codes-system-prompt-here-is-what-replaced-it/) · Aug 27, 2026
 - [Kimi K3: Moonshot AI&#39;s 2.8 Trillion Parameter Open Model, Explained](https://aravindarumugam.com/ai/kimi-k3-moonshot-ais-28-trillion-parameter-open-model-explained/) · Jul 27, 2026
 - [Claude Certifications Explained: Associate, Developer and Architect](https://aravindarumugam.com/ai/claude-certifications-explained-associate-developer-and-architect/) · Jul 9, 2026
 - [Claude Desktop Is on Linux: Install It in Two Minutes](https://aravindarumugam.com/tutorial/claude-desktop-linux-install/) · Jul 3, 2026
-- [Claude Fable 5 Is Back: How to Get the Most Out of It](https://aravindarumugam.com/ai/how-to-use-claude-fable-5/) · Jul 2, 2026
-- [WhatsApp Usernames: How to Reserve Yours and What Changes for Privacy](https://aravindarumugam.com/privacy/whatsapp-usernames-reserve-guide/) · Jul 2, 2026<!-- BLOG-POST-LIST:END -->
+- [Claude Fable 5 Is Back: How to Get the Most Out of It](https://aravindarumugam.com/ai/how-to-use-claude-fable-5/) · Jul 2, 2026<!-- BLOG-POST-LIST:END -->
 
 This section updates itself every day from [my blog feed](https://www.aravindarumugam.com/feed.xml).
 
